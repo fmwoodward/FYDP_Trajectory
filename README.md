@@ -1,2 +1,2 @@
 # FYDP_Trajectory
-Data and analysis of DoD Future Year's Defense Program
+Data and analysis of DoD's Future Year Defense Program
